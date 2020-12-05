@@ -1,4 +1,4 @@
-## Assignment Inspekt Labs
+## Assignment Inspektlabs
 ### Server Side
 
 Built with Flask, clone and run:
